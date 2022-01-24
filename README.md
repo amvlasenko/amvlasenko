@@ -10,7 +10,7 @@
 
 ### Связь со мной:
 
-[<img align="left" alt="amvlasenko | Telegram" width="22px" style="background-color: white" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />][telegram]
+[<div style="background-color: white"><img align="left" alt="amvlasenko | Telegram" width="22px" style="background-color: white" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" /></div>][telegram]
 [<img align="left" alt="amvlasenko | Instagram" width="22px" style="background-color: white" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="amvlasenko | Email" width="22px" style="background-color: white" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][mail]
 
