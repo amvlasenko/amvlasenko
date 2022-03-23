@@ -11,7 +11,6 @@
 ### Связь со мной:
 
 [<img align="left" alt="amvlasenko | Telegram" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" />][telegram]
-[<img align="left" alt="amvlasenko | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />][instagram]
 [<img align="left" alt="amvlasenko | Email" width="22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" />][mail]
 
 <br />
@@ -39,5 +38,4 @@
 
 [github]: https://github.com/amvlasenko
 [telegram]: https://t.me/amvlasenko
-[instagram]: https://instagram.com/amvlasenko
 [mail]: mailto:syringe.prod@gmail.com
