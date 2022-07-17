@@ -1,6 +1,8 @@
 ### Всем привет, я Александр 
 
+### CV:
 
+https://drive.google.com/file/d/1sNRlz9c6I1-kma9H0iwCL3fXSLQmWTRj/view?usp=sharing
 
 ### Связь со мной:
 
