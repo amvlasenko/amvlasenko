@@ -1,15 +1,5 @@
-### Всем привет, я Александр 
+## Всем привет, я Александр 
 
-### CV:
-
-https://drive.google.com/file/d/1sNRlz9c6I1-kma9H0iwCL3fXSLQmWTRj/view?usp=sharing
-
-### Связь со мной:
-
-[<img align="left" alt="amvlasenko | Telegram" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" />][telegram]
-[<img align="left" alt="amvlasenko | Email" width="22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" />][mail]
-
-<br />
 
 ### Языки и инструмены:
 
@@ -34,9 +24,22 @@ https://drive.google.com/file/d/1sNRlz9c6I1-kma9H0iwCL3fXSLQmWTRj/view?usp=shari
 <br />
 <br />
 
----
 
-<img align="left" alt="Git" width="400px" src="https://www.codewars.com/users/amvlasenko/badges/small?theme=light" />
+<img align="left" alt="Codewars" width="400px" src="https://www.codewars.com/users/amvlasenko/badges/small?theme=light" />
+<br />
+
+### Связь со мной:
+
+[<img align="left" alt="amvlasenko | Telegram" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" />][telegram]
+[<img align="left" alt="amvlasenko | Email" width="22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" />][mail]
+
+<br />
+
+### Моё CV:
+
+[Frontend-разработчик](https://drive.google.com/file/d/1sNRlz9c6I1-kma9H0iwCL3fXSLQmWTRj/view?usp=sharing)
+
+<br />
 
 
 [github]: https://github.com/amvlasenko
