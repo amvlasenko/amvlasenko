@@ -34,6 +34,9 @@
 
 ---
 
+<img align="left" alt="Git" width="400px" src="https://www.codewars.com/users/amvlasenko/badges/small?theme=light" />
+
+
 [github]: https://github.com/amvlasenko
 [telegram]: https://t.me/amvlasenko
 [mail]: mailto:syringe.prod@gmail.com
