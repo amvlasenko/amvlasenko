@@ -1,4 +1,16 @@
 ## Всем привет, я Александр 
+### Моё CV:
+
+[Frontend-разработчик](https://drive.google.com/file/d/1sNRlz9c6I1-kma9H0iwCL3fXSLQmWTRj/view?usp=sharing)
+
+
+### Связь со мной:
+
+[<img align="left" alt="amvlasenko | Telegram" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" />][telegram]
+[<img align="left" alt="amvlasenko | Email" width="22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" />][mail]
+
+
+<br />
 
 
 ### Языки и инструмены:
@@ -20,27 +32,12 @@
 <img align="left" alt="Vim" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/vim/vim.png" />
 <img align="left" alt="Fortran" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Fortran_logo.svg/1280px-Fortran_logo.svg.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-
-<br />
 <br />
 
+
+---
 
 <img align="left" alt="Codewars" width="400px" src="https://www.codewars.com/users/amvlasenko/badges/small?theme=light" />
-<br />
-
-### Связь со мной:
-
-[<img align="left" alt="amvlasenko | Telegram" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" />][telegram]
-[<img align="left" alt="amvlasenko | Email" width="22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" />][mail]
-
-<br />
-
-### Моё CV:
-
-[Frontend-разработчик](https://drive.google.com/file/d/1sNRlz9c6I1-kma9H0iwCL3fXSLQmWTRj/view?usp=sharing)
-
-<br />
-
 
 [github]: https://github.com/amvlasenko
 [telegram]: https://t.me/amvlasenko
