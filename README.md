@@ -1,7 +1,4 @@
 ## Всем привет, я Александр 
-### Моё CV:
-
-<a href="https://drive.google.com/file/d/1huLp4bOuXG_WObxdmejXIrxXQTjkZ4na/view?usp=sharing" target="_blank">Frontend-разработчик</a>
 
 
 ### Связь со мной:
