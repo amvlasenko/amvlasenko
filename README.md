@@ -46,7 +46,13 @@
 <img align="left" alt="Vim" width="26px" title="Vim"  src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/vim/vim.png" />
 <img align="left" alt="Fortran" width="26px" title="Fortran"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Fortran_logo.svg/1280px-Fortran_logo.svg.png" />
 <br />
+<br />
 
+#### In the process of studying
+
+
+<img align="left" alt="WebAssembly" width="26px" title="WebAssembly"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/WebAssembly_Logo.svg/1200px-WebAssembly_Logo.svg.png" />
+<br />
 
 ---
 
