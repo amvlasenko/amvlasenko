@@ -7,7 +7,7 @@
 <br />
 
 
-### Языки и инструмены:
+### Языки, библиотеки и инструменты:
 
 #### Frontend
 <img align="left" alt="JavaScript" width="26px" title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -23,10 +23,6 @@
 <img align="left" alt="Gulp" width="26px" title="Gulp"  src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gulp/gulp.png" />
 
 
-<img align="left" alt="GitHub" width="26px" title="GitHub"  src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Visual Studio Code" width="26px" title="Visual Studio Code"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="WebStorm" width="26px" title="WebStorm"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/1200px-WebStorm_Icon.svg.png" />
-<img align="left" alt="Git" width="26px" title="Git"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <br />
 <br />
 
@@ -41,6 +37,8 @@
 <img align="left" alt="LLVM" width="26px" title="LLVM" src="https://upload.wikimedia.org/wikipedia/ru/c/cb/LLVM_Logo.png" />
 <img align="left" alt="Terminal" width="26px" title="Terminal"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Vim" width="26px" title="Vim"  src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/vim/vim.png" />
+<img align="left" alt="GitHub" width="26px" title="GitHub"  src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Git" width="26px" title="Git"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Fortran" width="26px" title="Fortran"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Fortran_logo.svg/1280px-Fortran_logo.svg.png" />
 <br />
 <br />
