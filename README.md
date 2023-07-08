@@ -3,7 +3,7 @@
 
 ### Связь со мной:
 [<img align="left" alt="amvlasenko | Email" width="22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" />][mail]
-
+[<img align="left" alt="amvlasenko | Telegram" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" />][telegram]
 <br />
 
 
@@ -54,3 +54,4 @@
 <img align="left" alt="Codewars" width="400px" src="https://www.codewars.com/users/amvlasenko/badges/small?theme=light" />
 
 [mail]: mailto:syringe.prod@gmail.com
+[telegram]: https://t.me/amvlasenko
