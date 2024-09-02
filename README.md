@@ -43,12 +43,6 @@
 <br />
 <br />
 
-#### In the process of studying
-
-
-<img align="left" alt="WebAssembly" width="26px" title="WebAssembly"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/WebAssembly_Logo.svg/1200px-WebAssembly_Logo.svg.png" />
-<br />
-
 ---
 
 <img align="left" alt="Codewars" width="400px" src="https://www.codewars.com/users/amvlasenko/badges/small?theme=light" />
