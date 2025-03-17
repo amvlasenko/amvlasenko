@@ -30,7 +30,7 @@
 #### System
 
 <img align="left" alt="C++" width="26px" title="C++"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-<img align="left" alt="Assembler" width="26px" title="Assembler" src="https://plugins.jetbrains.com/files/9759/86800/icon/META-INF_pluginIcon.svg" />
+<img align="left" alt="Assembler" width="26px" title="Assembler" src="https://static-00.iconduck.com/assets.00/assembly-icon-1024x1024-lc5e1bk1.png" />
 <img align="left" alt="VHDL" width="26px" title="VHDL" src="https://global-uploads.webflow.com/6047a9e35e5dc54ac86ddd90/638a61921edcd6b61220a23a_XrbJ07KiqWOBrxBtkJGoAUdyjwynYp-eC0MPmL1RoQU.png" />
 <img align="left" alt="CLion" width="26px" title="CLion" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Clion.svg/1920px-Clion.svg.png" />
 <img align="left" alt="LLVM" width="26px" title="LLVM" src="https://upload.wikimedia.org/wikipedia/ru/c/cb/LLVM_Logo.png" />
